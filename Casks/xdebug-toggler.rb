@@ -7,5 +7,5 @@ cask "xdebug-toggler" do
    name "xDebugToggler"
    homepage "https://github.com/deligoez/xDebug-Toggler"
 
-   app "xDebugToggler.app
+   app "xDebugToggler.app"
  end
